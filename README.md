@@ -1,5 +1,7 @@
 # Lexa
 
+**Maintainer: Indra Zulfi**
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-2021-orange.svg)](Cargo.toml)
 [![Status](https://img.shields.io/badge/status-ready%20to%20use-brightgreen.svg)](#development)
